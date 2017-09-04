@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "rhythmgame.data.unityweb",
+"asmCodeUrl": "rhythmgame.asm.code.unityweb",
+"asmMemoryUrl": "rhythmgame.asm.memory.unityweb",
+"asmFrameworkUrl": "rhythmgame.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

@@ -1,9 +1,0 @@
-{
-"TOTAL_MEMORY": 268435456,
-"dataUrl": "rythemgame.data.unityweb",
-"asmCodeUrl": "rythemgame.asm.code.unityweb",
-"asmMemoryUrl": "rythemgame.asm.memory.unityweb",
-"asmFrameworkUrl": "rythemgame.asm.framework.unityweb",
-"splashScreenStyle": "Dark",
-"backgroundColor": "#231F20"
-}
