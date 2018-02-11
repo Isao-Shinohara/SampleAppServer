@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "PennyPixel_2DTilemapProject",
+"productName": "Tilemap2d",
 "dataUrl": "tilemap2d.data.unityweb",
 "asmCodeUrl": "tilemap2d.asm.code.unityweb",
 "asmMemoryUrl": "tilemap2d.asm.memory.unityweb",
