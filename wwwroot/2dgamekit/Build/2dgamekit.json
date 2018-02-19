@@ -1,0 +1,14 @@
+{
+"companyName": "DefaultCompany",
+"productName": "2DGameKitSample",
+"dataUrl": "2dgamekit.data.unityweb",
+"asmCodeUrl": "2dgamekit.asm.code.unityweb",
+"asmMemoryUrl": "2dgamekit.asm.memory.unityweb",
+"asmFrameworkUrl": "2dgamekit.asm.framework.unityweb",
+"asmSymbolsUrl": "2dgamekit.asm.symbols.unityweb",
+"TOTAL_MEMORY": 2130706432,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
